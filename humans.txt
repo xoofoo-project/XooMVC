@@ -1,0 +1,29 @@
+Alors vous, ça va ?
+
+Bein moi aussi ça va, merci, sympa de demander.
+
+/* TEAM */
+
+	Developpeur & gestionnaire : Kris Kris_fr
+	Toujours avec un couvre chef   
+	Donnez lui un gribouillis immonde censé être un wireframing, il en fera une maquette présentable
+	Toujours entre plusieurs lieux de résidence
+
+/* THANKS */      
+
+	Chuck Norris
+	T'es notre héros
+
+/* SITES */   
+
+	Site : https://xoofoo.org
+	Blog : https://xoofoo.org/labs/
+	Twitter : https://twitter.com/kris_fr
+	Facebook : http://www.facebook.com/pages/XooFoo/334586382333
+	Google plus : http://gplus.to/krisfr
+	Github : https://github.com/krisxoofoo
+	Sourceforge : http://sourceforge.net/projects/xoofoo/
+	
+	Standards: HTML5, CSS3, ...
+	Components: Foundation, jQuery, Magnific Popup
+	Software: notepad++, Opera

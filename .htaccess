@@ -1,0 +1,18 @@
+ErrorDocument 400 /index.php?page=error
+ErrorDocument 403 /index.php?page=error
+ErrorDocument 404 /index.php?page=error
+ErrorDocument 405 /index.php?page=error
+ErrorDocument 408 /index.php?page=error
+ErrorDocument 414 /index.php?page=error
+ErrorDocument 500 /index.php?page=error
+ErrorDocument 502 /index.php?page=error
+ErrorDocument 504 /index.php?page=error
+
+<FilesMatch "\.(css|js)$">
+Header set Cache-Control "max-age=1209600, public"
+SetOutputFilter DEFLATE
+</FilesMatch>
+
+<FilesMatch "\.(gif|png|jpg|woff|woff2|mp4)$">
+Header set Cache-Control "max-age=2592000, public"
+</FilesMatch>

@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /inc/
+Disallow: /cache/
+Disallow: /docs/
+Disallow: /assets/videos/
+Disallow: /assets/json/
+Disallow: /assets/fonts/
+Disallow: /downloads/
+Disallow: /share/
+Disallow: /*.css$
+Disallow: /*.js$
+
+Sitemap: http://john.doe/sitemap.xml 

@@ -1,0 +1,44 @@
+CACHE MANIFEST
+# 2015-12-29:v1.0
+
+CACHE:
+index.php
+# css
+assets/main.css
+assets/css/foundation.min.css
+assets/css/app.css
+assets/vendor/magnific-popup/magnific-popup.css
+assets/fonts/fontawesome/css/font-awesome.min.css
+assets/fonts/raleway/css/font-raleway.min.css
+# fonts
+assets/fonts/fontawesome/fonts/fontawesome-webfont.eot
+assets/fonts/fontawesome/fonts/fontawesome-webfont.svg
+assets/fonts/fontawesome/fonts/fontawesome-webfont.ttf
+assets/fonts/fontawesome/fonts/fontawesome-webfont.woff
+assets/fonts/fontawesome/fonts/fontawesome-webfont.woff2
+assets/fonts/fontawesome/fonts/FontAwesome.otf
+assets/fonts/raleway/fonts/raleway.woff2
+assets/fonts/raleway/fonts/raleway_light.woff2
+assets/fonts/raleway/fonts/raleway-semibold.woff2
+
+# images
+assets/images/icons/favicon.png
+assets/images/icons/apple-touch-icon.png
+assets/images/icons/apple-touch-icon-72x72.png
+assets/images/icons/apple-touch-icon-114x114.png
+assets/images/icons/apple-touch-icon-144x144.png
+# videos
+
+# javascripts
+assets/js/foundation.min.js
+assets/js/jquery.min.js
+assets/js/app.js
+assets/vendor/magnific-popup/jquery.magnific-popup.min.js
+assets/vendor/simplecartjs/simpleCart.min.js
+assets/vendor/instafeed/instafeed.min.js
+
+NETWORK:
+*
+
+FALLBACK:
+/ offline.html
